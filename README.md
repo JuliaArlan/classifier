@@ -12,6 +12,13 @@ numpy
 matplotlib  
 sklearn   
 _____________________________________________________
-
+**Used models**
+Logistic Regression
+Linear Support Vector Machine
+Gradient Boosting
+Random Forest 
+KNN
+Stohastic Gradient Descent
+Dummy 
 
 
